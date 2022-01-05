@@ -1,4 +1,4 @@
-* {
+body {
 	background-color: black;
 	text-align: center;
 	font-family: Verdana;
@@ -12,10 +12,9 @@ h1 {
 .download {
 	color: aquamarine;
 	font-size: 16px;
-	text-decoration: underline;
 }
 
-.explain {
+p {
 	color: grey;
 	font-size: 21px;
 }
